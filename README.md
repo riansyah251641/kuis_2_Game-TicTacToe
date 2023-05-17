@@ -51,4 +51,4 @@ Tic Tac Toe is a paper and pencil game, also known as Noughts and Crosses. The g
 - Output Win Message: Code prints game steps and state screen using printState method State object.In addition code also prints win message based evaluating state of game using check_win function.
 
 ## Output Program
-!image"(
+![image](https://github.com/riansyah251641/kuis_2_Game-TicTacToe/blob/main/output_code.png)
